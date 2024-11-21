@@ -1,0 +1,11 @@
+.ejemplo{
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ejemplos{
+    background-color: lightseagreen;
+    width: 100px;
+    height: 100px;
+}
