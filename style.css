@@ -2,7 +2,7 @@
     background-color: lightgray;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-content: space-around;
 }
 .ejemplos{
     background-color: lightseagreen;
