@@ -12,7 +12,7 @@ _Cursiva_
 
 [Link](https://www.google.com)
 
-![imagen de ejemplo](./img/imagen.jpg)
+![imagen de ejemplo](./img/imagen.png)
 
 ###Tercer nivel de titulo
 
